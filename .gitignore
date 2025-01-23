@@ -1,0 +1,10 @@
+# 각 CRA 프로젝트의 node_modules 무시
+**/node_modules/
+
+# 빌드 결과물 무시
+**/build/
+
+# OS/IDE 관련 파일 무시
+.DS_Store
+.vscode/
+.idea/
