@@ -1,0 +1,13 @@
+.container {
+    padding: 20px;
+    background-color: aqua;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+}
