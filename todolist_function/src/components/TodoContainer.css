@@ -1,0 +1,23 @@
+.TodoContainer {
+    width: 512px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6rem;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.title {
+    background-color: #22b8cf;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding: 20px;
+}
+
+.content {
+    background: white;
+}
